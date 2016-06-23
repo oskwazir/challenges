@@ -1,0 +1,2 @@
+defmodule TalantDetector do
+end
