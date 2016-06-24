@@ -1,0 +1,2 @@
+defmodule Wallpaper do
+end
